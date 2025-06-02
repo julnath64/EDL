@@ -10,3 +10,8 @@
 *.ocsp.comodoca.com
 *.ocsp.entrust.net
 *.ocsp.godaddy.com
+*.edge-docker-registry.asia.ruckus.cloud
+*.edge-docker-registry.eu.ruckus.cloud
+*.edge-docker-registry.ruckus.cloud
+*.registrar.ruckuswireless.com
+*.us-docker.pkg.dev
