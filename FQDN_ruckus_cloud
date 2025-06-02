@@ -1,0 +1,12 @@
+*.ap-registrar.ruckuswireless.com
+*.sw-registrar.ruckuswireless.com
+*.ruckus.cloud
+*.eu.ruckus.cloud
+*.asia.ruckus.cloud
+*.device.ruckus.cloud
+*.device.eu.ruckus.cloud
+*.device.asia.ruckus.cloud
+*.storage.googleapis.com
+*.ocsp.comodoca.com
+*.ocsp.entrust.net
+*.ocsp.godaddy.com
